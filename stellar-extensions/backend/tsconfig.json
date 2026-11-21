@@ -13,5 +13,5 @@
       "@nestjs/typeorm": ["../../backend/node_modules/@nestjs/typeorm"]
     }
   },
-  "include": ["src/**/*.ts"]
+  "include": ["src/**/*.ts", "../tests/**/*.ts"]
 }
